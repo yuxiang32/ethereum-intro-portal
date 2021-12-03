@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Basic Ethereum wave portal Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project demonstrates a basic ethereum smart contract use case, which is to introduce one another with waves and eventually it will be logged onto the blockchain. This serves as my understanding of how the mechanics work and I enjoyed the building experience very much. 
